@@ -8,7 +8,7 @@
 
 <!-- - 💬 Ask me about **Java, Python, Spring, SQL, ETL Pipelines .** -->
 
-- 📫 How to reach me **apoorvsrivastava.4123.com**
+- 📫 How to reach me **apoorvsrivastava.4123@gmail.com**
 
 <!-- - 📫 Hire me as UI/UX designer https://www.fiverr.com/share/bmREaq -->
 
